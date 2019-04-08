@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles/>
+  <includedXmlFiles/>
+  <includedDataFiles/>
+  <dataFiles>
+  	<Item>
+	  <filename>resources:/liberty-city/popzonelc.ipl</filename>
+	  <fileType>IPL_FILE</fileType>
+	</Item>
+  </dataFiles>
+</CDataFileMgr__ContentsOfDataFileXml>
