@@ -8633,7 +8633,7 @@
           <Variations />
         </Item>
         <Item>
-          <Name>scorcher</Name>
+          <Name>scorcher1</Name>
           <Variations />
         </Item>
         <Item>
@@ -8733,23 +8733,23 @@
       <Name>veh_copcar</Name>
       <models>
         <Item>
-          <Name>police</Name>
+          <Name>1G66</Name>
           <Variations />
         </Item>
         <Item>
-          <Name>police2</Name>
+          <Name>1G16</Name>
           <Variations />
         </Item>
         <Item>
-          <Name>police3</Name>
+          <Name>1G15</Name>
           <Variations />
         </Item>
 		<Item>
-          <Name>police6</Name>
+          <Name>1G13</Name>
           <Variations />
         </Item>
 		<Item>
-          <Name>police8</Name>
+          <Name>1F41</Name>
           <Variations />
         </Item>
       </models>
@@ -8759,15 +8759,15 @@
       <Name>hash_collision_2999935425</Name>
       <models>
         <Item>
-          <Name>police</Name>
+          <Name>1B88</Name>
           <Variations />
         </Item>
         <Item>
-          <Name>police2</Name>
+          <Name>1D81</Name>
           <Variations />
         </Item>
         <Item>
-          <Name>police3</Name>
+          <Name>1E50</Name>
           <Variations />
         </Item>
       </models>
@@ -8917,7 +8917,7 @@
       <Name>veh_transport</Name>
       <models>
         <Item>
-          <Name>bus</Name>
+          <Name>bus2</Name>
           <Variations />
         </Item>
 		<Item>
@@ -8977,11 +8977,11 @@
       <Name>veh_prologue</Name>
       <models>
         <Item>
-          <Name>policeold1</Name>
+          <Name>1G15</Name>
           <Variations />
         </Item>
         <Item>
-          <Name>policeold2</Name>
+          <Name>1G80</Name>
           <Variations />
         </Item>
       </models>
@@ -8991,11 +8991,11 @@
       <Name>hash_collision_671023873</Name>
       <models>
         <Item>
-          <Name>policeold1</Name>
+          <Name>2G13</Name>
           <Variations />
         </Item>
         <Item>
-          <Name>policeold2</Name>
+          <Name>2G13</Name>
           <Variations />
         </Item>
       </models>
